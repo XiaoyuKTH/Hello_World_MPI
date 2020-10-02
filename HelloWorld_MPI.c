@@ -4,7 +4,6 @@
 int  main(int argc,char* argv[]){
 
   int rank, size; 
-  int namelen;
 
   MPI_Init(&argc, &argv);
 
